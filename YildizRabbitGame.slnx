@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/YildizRabbitGame/YildizRabbitGame.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/YildizRabbitGame.Tests/YildizRabbitGame.Tests.csproj" />
+  </Folder>
+</Solution>

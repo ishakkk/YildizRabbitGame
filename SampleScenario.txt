@@ -1,0 +1,16 @@
+Örnek komut listesi:
+N,N,L,J,N,N,İ,P,J
+
+Kullanım:
+1) Programı çalıştırın: dotnet run --project src/YildizRabbitGame/YildizRabbitGame.csproj
+2) Tahta büyüklüğü sorulduğunda "2" girin (8x8).
+3) Seed sorulduğunda tekrarlanabilir bir tahta için örn. "42" girip Enter'a basın
+   (boş bırakırsanız her seferinde farklı bir tahta üretilir).
+4) Senaryo sorulduğunda yukarıdaki komutu yapıştırıp Enter'a basın.
+5) Tahta her adımda konsolda gösterilecek ve sonunda tavşanın kaderi
+   (eve ulaştı / öldü / senaryo bitti) yazdırılacaktır.
+
+Not: Engeller rastgele yerleştirildiği için bu örnek komut her tahtada
+tavşanı eve ulaştırmayı garanti etmez - sadece giriş formatını göstermek
+içindir. Aynı seed ile tekrar çalıştırırsanız aynı tahtayı (ve dolayısıyla
+aynı sonucu) tekrar elde edersiniz.
