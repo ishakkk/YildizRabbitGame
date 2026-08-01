@@ -27,7 +27,7 @@
 - [Sık Sorulan Sorular](#-sık-sorulan-sorular)
 - [Yol Haritası](#-yol-haritası)
 - [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans](#-lisans)
+
 
 ---
 
@@ -324,10 +324,3 @@ Lütfen yeni davranışlar için `tests/YildizRabbitGame.Tests` altına determin
 
 ---
 
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır — dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz.
-
----
-
-<p align="center">Made with 🥕 for a curious little rabbit named Yıldız.</p>
